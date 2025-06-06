@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="center">I'm a passionate Full Stack Developer with a knack for building seamless and efficient web applications</h3>
+<h3 align="center">⭐The More You Learn, The Lesser You Know ⭐</h3>
 
 ###
 
-<h4 align="center">🌱 I’m currently learning Web3, Blockchain<br><br>💬 Ask me about Full Stack Development, DSA<br><br>⚡A workaholic who always loves to learn new stuffs</h4>
+<h4 align="center">🚀Full Stack Web Developer || DSA <br><br>🌱 I’m currently learning Web3, Blockchain<br><br>💬 Ask me about Full Stack Development, DSA<br><br>⚡ Fun fact A workaholic who always loves to learn new stuffs</h4>
 
 ###
 
@@ -59,9 +59,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codexAbhi007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=codexAbhi007&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=codexAbhi007&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codexAbhi007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=codexAbhi007&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=codexAbhi007&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
 </div>
 
 ###
