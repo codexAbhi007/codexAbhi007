@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">🚀Full Stack Web Developer || DSA <br><br>🌱 I’m currently learning Web3, Blockchain<br><br>💬 Ask me about Full Stack Development, DSA<br><br>⚡ Fun fact A workaholic who always loves to learn new stuffs</h4>
+<h4 align="center">🚀Full Stack Web Developer || DSA <br><br>🌱 I’m currently learning Web3, Blockchain<br><br>💬 Ask me about Full Stack Development, DSA<br><br>⚡ A workaholic who always loves to learn new stuffs</h4>
 
 ###
 
