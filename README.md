@@ -78,4 +78,12 @@
   </a>
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/codexAbhi007/codexAbhi007/output/snake.svg" alt="Snake animation" />
+
+###
+
 
