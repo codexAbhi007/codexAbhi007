@@ -95,5 +95,9 @@
 ###
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/codexAbhi007?theme=chartreuse&font=Inter&ext=heatmap" height="150" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/codexAbhi007?theme=dark&font=Inter&ext=heatmap&border=0" height="200" alt="LeetCode Stats" />
 </div>
+
+
+
+
