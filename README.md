@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="center">🚀Full Stack Web Developer || DSA <br><br>📋 Technical Content Writer <br><br>🌱 I’m currently learning about Web3, AI<br><br>💬 Ask me about Full Stack Development, DSA<br><br>⚡ A workaholic who always loves to learn new stuffs</h4>
+<h4 align="center">🚀Full Stack Web Developer || DSA <br><br>📋 Technical Content Writer <br><br>🌱 I’m currently learning about Web3, AI, core CS subjects<br><br>💬 Ask me about Full Stack Development, DSA<br><br>⚡ A workaholic who always loves to learn new stuffs</h4>
 
 ###
 
