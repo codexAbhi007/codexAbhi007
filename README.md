@@ -69,30 +69,22 @@
 
 ###
 
-<div align="center">
-  <!-- <img src="https://streak-stats.demolab.com?user=codexAbhi007&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  /> -->
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexAbhi007&theme=github-dark&area=true&hide_border=true&hide_title=true&line=39D353&color=ffffff&radius=0&point=F34B7D" height="150" alt="activity-graph graph"  /> -->
-  <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?codexAbhi007" frameborder="0"></iframe> -->
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexAbhi007&theme=aura_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codexAbhi007&theme=aura_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codexAbhi007&theme=aura_dark)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codexAbhi007&theme=aura_dark&utcOffset=8)
- 
 ###
 
-<!-- <div align="center">
-  <a href="https://x.com/cdx_Abhi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/@codexAbhi007/videos" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/abhirup-ghosh-41a2b4315/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@cdxabhi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a> -->
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexAbhi007&theme=aura_dark" width="100%" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codexAbhi007&theme=aura_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codexAbhi007&theme=aura_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codexAbhi007&theme=aura_dark" width="32%" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codexAbhi007&theme=aura_dark&utcOffset=5.5" width="40%" />
+
 </div>
 
 
