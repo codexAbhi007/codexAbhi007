@@ -72,6 +72,7 @@
 ###
 
 <div align="center">
+  <img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/73c3490d-fb1d-4c62-8991-9a65af544f66" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexAbhi007&theme=aura_dark" width="100%" />
 
