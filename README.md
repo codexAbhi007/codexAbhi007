@@ -83,16 +83,11 @@
 
   <br><br>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codexAbhi007&theme=aura_dark&utcOffset=5.5" width="40%" />
-
-</div>
-
-
-###
-
-<div align="center">
   <img src="https://leetcard.jacoblin.cool/codexAbhi007?theme=dark&font=Inter&ext=heatmap&border=0" height="200" alt="LeetCode Stats" />
+
 </div>
+
+
 
 
 
