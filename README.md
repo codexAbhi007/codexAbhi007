@@ -70,10 +70,14 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=codexAbhi007&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexAbhi007&theme=github-dark&area=true&hide_border=true&hide_title=true&line=39D353&color=ffffff&radius=0&point=F34B7D" height="150" alt="activity-graph graph"  />
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?codexAbhi007" frameborder="0"></iframe>
-  
+  <!-- <img src="https://streak-stats.demolab.com?user=codexAbhi007&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  /> -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexAbhi007&theme=github-dark&area=true&hide_border=true&hide_title=true&line=39D353&color=ffffff&radius=0&point=F34B7D" height="150" alt="activity-graph graph"  /> -->
+  <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?codexAbhi007" frameborder="0"></iframe> -->
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexAbhi007&theme=aura_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codexAbhi007&theme=aura_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=codexAbhi007&theme=aura_dark)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=codexAbhi007&theme=aura_dark&utcOffset=8)
+ 
 ###
 
 <!-- <div align="center">
@@ -88,8 +92,8 @@
   </a>
   <a href="https://medium.com/@cdxabhi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div> -->
+  </a> -->
+</div>
 
 
 ###
