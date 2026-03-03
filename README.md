@@ -1,12 +1,15 @@
-<h2 align="center">Hi 👋 I Am Abhirup</h2>
+<h2 align="center">Hi 👋 I'm Abhirup Ghosh</h2>
 
-###
+<h3 align="center">🚀 Full Stack Developer | DSA Enthusiast | Lifelong Learner</h3>
 
-<h3 align="center">⭐The More You Learn, The Lesser You Know ⭐</h3>
-
-###
-
-<h4 align="center">🚀Full Stack Web Developer || DSA <br><br>📋 Technical Content Writer <br><br>🌱 I’m currently learning about Web3, AI, core CS subjects<br><br>💬 Ask me about Full Stack Development, DSA<br><br>⚡ A workaholic who always loves to learn new stuffs</h4>
+<h4 align="center">
+💡 Building scalable web applications with modern technologies <br><br>
+🧠 Strong foundation in Data Structures & Algorithms (C/C++) <br><br>
+✍️ Technical Content Writer simplifying complex CS concepts <br><br>
+🌱 Currently exploring Web3, AI/ML, and Core Computer Science <br><br>
+💬 Ask me about Full Stack Development, DSA, Backend Architecture <br><br>
+⚡ Obsessed with growth, consistency, and mastering fundamentals
+</h4>
 
 ###
 
