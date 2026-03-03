@@ -67,10 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codexAbhi007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=codexAbhi007&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=codexAbhi007&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=codexAbhi007&column=4&row=2&margin-w=14&no-frame=true&no-bg=true&theme=tokyonight&margin-h=6" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexAbhi007&theme=github-dark&area=true&hide_border=true&hide_title=true&line=39D353&color=ffffff&radius=0&point=F34B7D" height="150" alt="activity-graph graph"  />
 </div>
 
