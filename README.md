@@ -84,7 +84,7 @@
 
   <br><br>
 
-  <img src="https://leetcard.jacoblin.cool/codexAbhi007?theme=dark&font=Inter&ext=heatmap&border=0" height="200" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/codexAbhi007?theme=dark&font=Inter&ext=heatmap&border=0" height="200" width="100%" alt="LeetCode Stats" />
 
 </div>
 
