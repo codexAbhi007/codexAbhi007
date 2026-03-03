@@ -66,10 +66,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center"> -->
   <img src="https://streak-stats.demolab.com?user=codexAbhi007&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=8" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexAbhi007&theme=github-dark&area=true&hide_border=true&hide_title=true&line=39D353&color=ffffff&radius=0&point=F34B7D" height="150" alt="activity-graph graph"  />
-</div>
+<!-- </div> -->
 
 ###
 
