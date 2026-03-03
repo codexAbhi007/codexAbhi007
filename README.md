@@ -72,7 +72,7 @@
 ###
 
 <div align="center">
-  <img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/73c3490d-fb1d-4c62-8991-9a65af544f66" />
+    [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codexabhi007&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexAbhi007&theme=aura_dark" width="100%" />
 
