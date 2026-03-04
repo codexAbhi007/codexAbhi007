@@ -72,19 +72,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexabhi007&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codexabhi007&bg_color=000000&color=8b949e&line=26a641&point=8b949e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" width="50%" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexAbhi007&theme=aura_dark" width="100%" />
-
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codexAbhi007&theme=aura_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codexAbhi007&theme=aura_dark" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codexAbhi007&theme=aura_dark" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codexAbhi007&theme=aura_dark" width="50%" />
 
   <br><br>
 
-  <img src="https://leetcard.jacoblin.cool/codexAbhi007?theme=dark&font=Inter&ext=heatmap&border=0" width="100%" alt="LeetCode Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codexAbhi007&theme=aura_dark" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=codexAbhi007&theme=aura_dark" width="50%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=codexAbhi007&theme=aura_dark" width="50%" />
+  <img src="https://leetcard.jacoblin.cool/codexAbhi007?theme=dark&font=Inter&ext=heatmap&border=0" width="50%" alt="LeetCode Stats" />
+  <br><br>
+
+  
 
 </div>
 
